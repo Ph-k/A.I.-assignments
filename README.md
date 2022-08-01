@@ -11,4 +11,4 @@ In the folder of the first project you will find the implementation of various s
 
 **Project 2:**
 
-In the folder of the second project you will find the implementation of a reflex agent (see `evaluationFunction()`). There are also implementations of the minimax and expectimax algorithms along with some improvements using Alpha-Beta pruning.
+In the folder of the second project you will find the implementation of a reflex agent (see `evaluationFunction()`), as well as implementations of the minimax and expectimax algorithms along with some improvements such as Alpha-Beta pruning.
