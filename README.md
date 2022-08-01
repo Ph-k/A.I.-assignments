@@ -29,3 +29,5 @@ Given the input files in the folder `rlfap`, and the code from AIMA, my work can
 -	The input files are read at myCSP constructor.
 -	Method heuristic() implements dom/wdeg following the paper [p0146.pdf (frontiersinai.com)](http://www.frontiersinai.com/ecai/ecai2004/ecai04/pdf/p0146.pdf)
 -	The FC, MAC, and FC-CBJ algorithms are implemented based on `CSP.py` code in the  functions **[`my_forward_checking()`]** **[`my_mac()` ,`my_revise()` ,`my_AC3()`]** and **[`my_forward_checkingCBJ()`, `backJumping_search`]** of `myCSP.py` 
+
+*Note: In order to execute the program, you have to install numpy and sortedcontainers*
