@@ -8,3 +8,7 @@
 **Project 1:**
 
 In the folder of the first project you will find the implementation of various search algorithms (DFS, BFS, UCS, A*). Which are used to help Pac-Man win.  Also you will find various heuristics, which are mainly used in combination with the A* algorithm, and aid to improve the overall performance of the program.
+
+**Project 2:**
+
+In the folder of the first project you will find the implementation of a reflex agent (see `evaluationFunction()`). There are also implementations of the minimax and expectimax algorithms along with some improvements using Alpha-Beta pruning.
