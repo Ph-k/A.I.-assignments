@@ -12,3 +12,7 @@ In the folder of the first project you will find the implementation of various s
 **Project 2:**
 
 In the folder of the second project you will find the implementation of a reflex agent (see `evaluationFunction()`), as well as implementations of the minimax and expectimax algorithms along with some improvements such as Alpha-Beta pruning.
+
+Projects 1 & 2 passed the autograder, with grades 26/25 and 25/25 respectively.
+
+Projects 1 & 2 execution commands are the same as in the berkeley projects ([1]([Project 1 - Search - CS 188: Introduction to Artificial Intelligence, Spring 2019 (berkeley.edu)](https://inst.eecs.berkeley.edu/~cs188/sp19/project1.html)),[2](https://inst.eecs.berkeley.edu/~cs188/sp19/project2.html)).
